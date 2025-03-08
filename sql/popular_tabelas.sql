@@ -39,3 +39,5 @@ INSERT INTO consultas (codm, codp, data, hora) VALUES
 (4,4,'2006-06-20', '13:00'),
 (4,4,'2006-06-22', '19:30');
 
+
+
