@@ -44,3 +44,8 @@ Esta atividade consiste na criação de um banco de dados para gerenciar informa
   - `NOT NULL`: Garantia de que certos campos como nome, idade, especialidade, CPF e salário não podem ser nulos.
   - `UNIQUE`: Garante que o CPF de médicos, pacientes e funcionários seja único.
   - `CHECK`: Para validar campos, como o número de andares de um ambulatório.
+
+### Fiz as consultas no vscode em um banco na nuvem
+
+![Minha Imagem](Img/captura.png)
+![Minha Imagem](Img/railway.png)
